@@ -3,7 +3,7 @@
 
 Originally forked from [ulisesbocchio](https://github.com/ulisesbocchio/jasypt-spring-boot).
 
-[![Build Status](https://travis-ci.org/pklos/jasypt-spring-boot.svg?branch=master)](https://travis-ci.org/ulisesbocchio/jasypt-spring-boot)
+[![Build Status](https://travis-ci.org/pklos/jasypt-spring-boot.svg?branch=master)](https://travis-ci.org/pklos/jasypt-spring-boot)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ulisesbocchio/jasypt-spring-boot/blob/master/LICENSE)
 
