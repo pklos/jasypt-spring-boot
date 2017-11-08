@@ -1,19 +1,11 @@
 # jasypt-spring-boot
 **[Jasypt](http://jasypt.org)** integration for Spring boot 1.4.X , 1.5.X and 2.0.0.X
 
-[![Build Status](https://travis-ci.org/ulisesbocchio/jasypt-spring-boot.svg?branch=master)](https://travis-ci.org/ulisesbocchio/jasypt-spring-boot)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ulisesbocchio/jasypt-spring-boot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ulisesbocchio/jasypt-spring-boot/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.ulisesbocchio/jasypt-spring-boot)
+Originally forked from [ulisesbocchio](https://github.com/ulisesbocchio/jasypt-spring-boot).
 
+[![Build Status](https://travis-ci.org/pklos/jasypt-spring-boot.svg?branch=master)](https://travis-ci.org/ulisesbocchio/jasypt-spring-boot)
 
-[![Code Climate](https://codeclimate.com/github/rsercano/mongoclient/badges/gpa.svg)](https://codeclimate.com/github/ulisesbocchio/jasypt-spring-boot)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a75fc4e1d3f480f811b5339202400b5)](https://www.codacy.com/app/ulisesbocchio/jasypt-spring-boot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ulisesbocchio/jasypt-spring-boot&amp;utm_campaign=Badge_Grade)
-[![GitHub release](https://img.shields.io/github/release/ulisesbocchio/jasypt-spring-boot.svg)](https://github.com/ulisesbocchio/jasypt-spring-boot)
-[![Github All Releases](https://img.shields.io/github/downloads/ulisesbocchio/jasypt-spring-boot/total.svg)](https://github.com/ulisesbocchio/jasypt-spring-boot)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/ulisesbocchio/jasypt-spring-boot/blob/master/LICENSE)
-
-[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9J2V5HJT8AZF8)
-
 
 Jasypt Spring Boot provides Encryption support for property sources in Spring Boot Applications.<br/>
 There are 3 ways to integrate `jasypt-spring-boot` in your project:
